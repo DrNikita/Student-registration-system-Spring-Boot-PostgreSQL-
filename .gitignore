@@ -1,0 +1,16 @@
+HELP.md
+target/
+
+### Eclipse ###
+.metadata
+bin/
+tmp/
+Patches/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
